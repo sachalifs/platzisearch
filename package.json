@@ -1,0 +1,14 @@
+{
+  "name": "platzi-search",
+  "version": "0.1.0",
+  "description": "CLI to Search Platzi's blog",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "open": "0.0.5",
+    "scrape": "^0.2.3"
+  }
+}
