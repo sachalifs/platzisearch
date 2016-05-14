@@ -24,7 +24,7 @@ _**Platzisearch —** Busca en el blog de Platzi_
 import search from 'platzisearch'
 
 async function () {
-  const blogposts = await serach('3d touch')
+  const blogposts = await search('3d touch')
   
   console.log(blogposts[0])
   
